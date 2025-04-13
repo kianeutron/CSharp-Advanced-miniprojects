@@ -1,0 +1,14 @@
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Exeption/bin/Debug/net8.0/Exeption
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Exeption/bin/Debug/net8.0/Exeption.deps.json
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Exeption/bin/Debug/net8.0/Exeption.runtimeconfig.json
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Exeption/bin/Debug/net8.0/Exeption.dll
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Exeption/bin/Debug/net8.0/Exeption.pdb
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Exeption/obj/Debug/net8.0/Exeption.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Exeption/obj/Debug/net8.0/Exeption.AssemblyInfoInputs.cache
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Exeption/obj/Debug/net8.0/Exeption.AssemblyInfo.cs
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Exeption/obj/Debug/net8.0/Exeption.csproj.CoreCompileInputs.cache
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Exeption/obj/Debug/net8.0/Exeption.dll
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Exeption/obj/Debug/net8.0/refint/Exeption.dll
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Exeption/obj/Debug/net8.0/Exeption.pdb
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Exeption/obj/Debug/net8.0/Exeption.genruntimeconfig.cache
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Exeption/obj/Debug/net8.0/ref/Exeption.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kiankhatibi/Documents/Programming2 retake practice/Assignment1/Assignment1.csproj": {}
+    "/Users/kiankhatibi/Desktop/CSharp-Advanced-miniprojects/Assignment1/Assignment1.csproj": {}
   },
   "projects": {
-    "/Users/kiankhatibi/Documents/Programming2 retake practice/Assignment1/Assignment1.csproj": {
+    "/Users/kiankhatibi/Desktop/CSharp-Advanced-miniprojects/Assignment1/Assignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kiankhatibi/Documents/Programming2 retake practice/Assignment1/Assignment1.csproj",
+        "projectUniqueName": "/Users/kiankhatibi/Desktop/CSharp-Advanced-miniprojects/Assignment1/Assignment1.csproj",
         "projectName": "Assignment1",
-        "projectPath": "/Users/kiankhatibi/Documents/Programming2 retake practice/Assignment1/Assignment1.csproj",
+        "projectPath": "/Users/kiankhatibi/Desktop/CSharp-Advanced-miniprojects/Assignment1/Assignment1.csproj",
         "packagesPath": "/Users/kiankhatibi/.nuget/packages/",
-        "outputPath": "/Users/kiankhatibi/Documents/Programming2 retake practice/Assignment1/obj/",
+        "outputPath": "/Users/kiankhatibi/Desktop/CSharp-Advanced-miniprojects/Assignment1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kiankhatibi/.nuget/NuGet/NuGet.Config"

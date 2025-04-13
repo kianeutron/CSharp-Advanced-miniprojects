@@ -1,0 +1,14 @@
+/Users/kiankhatibi/Desktop/Programming2 retake practice/FileIO/bin/Debug/net8.0/FileIO
+/Users/kiankhatibi/Desktop/Programming2 retake practice/FileIO/bin/Debug/net8.0/FileIO.deps.json
+/Users/kiankhatibi/Desktop/Programming2 retake practice/FileIO/bin/Debug/net8.0/FileIO.runtimeconfig.json
+/Users/kiankhatibi/Desktop/Programming2 retake practice/FileIO/bin/Debug/net8.0/FileIO.dll
+/Users/kiankhatibi/Desktop/Programming2 retake practice/FileIO/bin/Debug/net8.0/FileIO.pdb
+/Users/kiankhatibi/Desktop/Programming2 retake practice/FileIO/obj/Debug/net8.0/FileIO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiankhatibi/Desktop/Programming2 retake practice/FileIO/obj/Debug/net8.0/FileIO.AssemblyInfoInputs.cache
+/Users/kiankhatibi/Desktop/Programming2 retake practice/FileIO/obj/Debug/net8.0/FileIO.AssemblyInfo.cs
+/Users/kiankhatibi/Desktop/Programming2 retake practice/FileIO/obj/Debug/net8.0/FileIO.csproj.CoreCompileInputs.cache
+/Users/kiankhatibi/Desktop/Programming2 retake practice/FileIO/obj/Debug/net8.0/FileIO.dll
+/Users/kiankhatibi/Desktop/Programming2 retake practice/FileIO/obj/Debug/net8.0/refint/FileIO.dll
+/Users/kiankhatibi/Desktop/Programming2 retake practice/FileIO/obj/Debug/net8.0/FileIO.pdb
+/Users/kiankhatibi/Desktop/Programming2 retake practice/FileIO/obj/Debug/net8.0/FileIO.genruntimeconfig.cache
+/Users/kiankhatibi/Desktop/Programming2 retake practice/FileIO/obj/Debug/net8.0/ref/FileIO.dll
