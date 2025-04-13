@@ -1,0 +1,14 @@
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Assignment2/bin/Debug/net8.0/Bookrental
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Assignment2/bin/Debug/net8.0/Bookrental.deps.json
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Assignment2/bin/Debug/net8.0/Bookrental.runtimeconfig.json
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Assignment2/bin/Debug/net8.0/Bookrental.dll
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Assignment2/bin/Debug/net8.0/Bookrental.pdb
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Assignment2/obj/Debug/net8.0/Bookrental.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Assignment2/obj/Debug/net8.0/Bookrental.AssemblyInfoInputs.cache
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Assignment2/obj/Debug/net8.0/Bookrental.AssemblyInfo.cs
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Assignment2/obj/Debug/net8.0/Bookrental.csproj.CoreCompileInputs.cache
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Assignment2/obj/Debug/net8.0/Bookrental.dll
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Assignment2/obj/Debug/net8.0/refint/Bookrental.dll
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Assignment2/obj/Debug/net8.0/Bookrental.pdb
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Assignment2/obj/Debug/net8.0/Bookrental.genruntimeconfig.cache
+/Users/kiankhatibi/Desktop/Programming2 retake practice/Assignment2/obj/Debug/net8.0/ref/Bookrental.dll

@@ -1,0 +1,4 @@
+1|Bohemian Rhapsody|Rock|354
+2|Bad Guy|Pop|194
+3|AI Revolution|Tech|1200
+4|History Deep Dive|Education|1800
